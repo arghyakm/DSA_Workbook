@@ -36,13 +36,12 @@ class pascalTriangle {
         // Create an instance of the class
         pascalTriangle pt = new pascalTriangle();
         
-        // Define the number of rows you want to generate
+        
         int numRows = 5;
         
-        // Call the generate method
         List<List<Integer>> result = pt.generate(numRows);
         
-        // Print the results
+        
         System.out.println("Pascal's Triangle for " + numRows + " rows:");
         for (List<Integer> row : result) {
             System.out.println(row);
