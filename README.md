@@ -5,6 +5,10 @@ Welcome to my DSA tracking repository! I am using this space to document my jour
 The focus here is on clean logic, optimized problem-solving, and a strong foundational mindset.
 
 > *"If you don't fight, you are dead."* — Diego Simeone
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-100000?style=for-the-badge&logo=leetcode&logoColor=F24E1E)
+![Algorithms](https://img.shields.io/badge/Algorithms-00599C?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 ---
 
 **Language Used:** Java ☕
@@ -17,7 +21,7 @@ The focus here is on clean logic, optimized problem-solving, and a strong founda
 
 - [x] Set Matrix Zeros
 - [x] Pascal's Triangle
-- [] Next Permutation
+- [x] Next Permutation
 - [ ] Kadane's Algorithm
 - [ ] Sort an array of 0's 1's 2's
 - [ ] Stock buy and Sell
