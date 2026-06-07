@@ -1,0 +1,8 @@
+# Compiled class files
+*.class
+
+# VS Code directory
+.vscode/
+
+# macOS hidden files
+.DS_Store
