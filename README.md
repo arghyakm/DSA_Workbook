@@ -22,7 +22,7 @@ The focus here is on clean logic, optimized problem-solving, and a strong founda
 - [x] Set Matrix Zeros
 - [x] Pascal's Triangle
 - [x] Next Permutation
-- [ ] Kadane's Algorithm
+- [x] Kadane's Algorithm
 - [ ] Sort an array of 0's 1's 2's
 - [ ] Stock buy and Sell
 </details>
